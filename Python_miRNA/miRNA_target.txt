@@ -1,0 +1,4725 @@
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767891760|ref|XR_960137.1||422
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|295821220|ref|NM_001178015.1||5568
+mfe: -27.7 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|700653920|ref|NM_207511.2||353
+mfe: -29.7 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768055020|ref|XM_011548541.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768045054|ref|XM_011546735.1||4779
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|530411679|ref|XM_005257103.1||2395
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|540344583|ref|NM_001282441.1||1936
+mfe: -30.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768006260|ref|XM_011526407.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|205277363|ref|NM_001135036.1||1870
+mfe: -30.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：3
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767882210|ref|XR_942350.1||2295
+mfe: -28.6 kcal/mol
+p-value: 0.000004
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：4
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|334358854|ref|NR_038340.1||109
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|313851022|ref|NM_001199637.1||2589
+mfe: -27.2 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767928454|ref|XR_924545.1||2295
+mfe: -28.6 kcal/mol
+p-value: 0.000004
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：4
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768055377|ref|XM_011548593.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767968673|ref|XM_011545225.1||3463
+mfe: -30.3 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|541862238|ref|NM_015540.3||675
+mfe: -29.0 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|155722997|ref|NM_022058.3||5478
+mfe: -27.7 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|524588547|ref|NM_181703.3||2935
+mfe: -26.4 kcal/mol
+p-value: 0.000024
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|563580303|ref|NR_108062.1||115
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767987884|ref|XM_011522760.1||5046
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767987886|ref|XM_011522761.1||4779
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|295821222|ref|NM_001178016.1||5614
+mfe: -27.7 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767944260|ref|XR_942945.1||2743
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768045037|ref|XM_011546731.1||5205
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768003739|ref|XM_011528232.1||217
+mfe: -25.9 kcal/mol
+p-value: 0.000037
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：4
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768045030|ref|XM_011546729.1||5208
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768050224|ref|XM_011547757.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|209969829|ref|NM_001136193.1||6320
+mfe: -27.5 kcal/mol
+p-value: 0.000010
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|259155319|ref|NM_014681.5||199
+mfe: -30.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|578830490|ref|XM_005257096.2||2457
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|563580330|ref|NR_108063.1||115
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|668347820|ref|NR_125422.1||150
+mfe: -29.3 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|338827683|ref|NM_012305.3||4387
+mfe: -29.4 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：7
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767886296|ref|XR_954964.1||2740
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|189083693|ref|NM_002020.4||1533
+mfe: -30.6 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|260436829|ref|NM_001017980.3||4514
+mfe: -29.0 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768051580|ref|XM_011547958.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767987878|ref|XM_011522757.1||5205
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|571026650|ref|NM_001100875.2||2355
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767993823|ref|XM_011524436.1||2343
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|345199284|ref|NM_203346.3||4297
+mfe: -31.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|410173839|ref|XR_172412.1||91
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|345199282|ref|NM_001243900.1||4221
+mfe: -31.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|209862741|ref|NM_153211.3||4760
+mfe: -26.4 kcal/mol
+p-value: 0.000024
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767967046|ref|XR_931001.1||422
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767967045|ref|XR_931000.1||422
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|530405669|ref|XM_005254297.1||954
+mfe: -29.0 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767987874|ref|XM_011522755.1||5208
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767970360|ref|XM_006718880.2||1012
+mfe: -35.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767891761|ref|XR_960138.1||422
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|225007608|ref|NM_174909.4||12
+mfe: -29.5 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：7
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768039806|ref|XM_011531125.1||4650
+mfe: -29.0 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|571330833|ref|NR_110183.1||105
+mfe: -36.4 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767987880|ref|XM_011522758.1||5205
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|239050812|ref|NM_144612.6||462
+mfe: -29.3 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：3
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|331284124|ref|NM_015409.4||7924
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|209969828|ref|NM_014929.3||6227
+mfe: -27.5 kcal/mol
+p-value: 0.000010
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|354721105|ref|NM_001009909.3||3183
+mfe: -26.7 kcal/mol
+p-value: 0.000019
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|75813622|ref|NM_005245.3||1735
+mfe: -27.9 kcal/mol
+p-value: 0.000007
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：5
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|578830496|ref|XM_005257100.2||2398
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|189083694|ref|NM_182925.4||1533
+mfe: -30.6 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|571026622|ref|NM_001288779.1||2550
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|223890220|ref|NM_025040.3||2185
+mfe: -31.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767900776|ref|XR_920587.1||2307
+mfe: -36.4 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767900776|ref|XR_920587.1||1197
+mfe: -29.6 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768055708|ref|XM_011548685.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|663071020|ref|NM_001297650.1||357
+mfe: -27.8 kcal/mol
+p-value: 0.000007
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：4
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|444299621|ref|NM_001276318.1||2449
+mfe: -32.4 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|40445391|ref|NR_001591.1||397
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|224493666|ref|NR_027122.1||109
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767885452|ref|XR_954182.1||2781
+mfe: -29.8 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|578830498|ref|XM_005257102.2||2395
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768045034|ref|XM_011546730.1||5096
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|87044927|ref|NM_004055.4||3342
+mfe: -30.3 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|663071019|ref|NM_174941.5||357
+mfe: -27.8 kcal/mol
+p-value: 0.000007
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：4
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768012312|ref|XR_243974.2||146
+mfe: -30.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|209862742|ref|NM_001135993.1||5113
+mfe: -26.4 kcal/mol
+p-value: 0.000024
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767987876|ref|XM_011522756.1||5096
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|483968432|ref|NR_102708.1||153
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|313851019|ref|NM_001199636.1||2733
+mfe: -27.2 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768042833|ref|XR_951643.1||2805
+mfe: -25.7 kcal/mol
+p-value: 0.000044
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768042833|ref|XR_951643.1||2848
+mfe: -25.7 kcal/mol
+p-value: 0.000044
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768042833|ref|XR_951643.1||2716
+mfe: -25.7 kcal/mol
+p-value: 0.000044
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768042833|ref|XR_951643.1||2759
+mfe: -25.7 kcal/mol
+p-value: 0.000044
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768042833|ref|XR_951643.1||2538
+mfe: -25.7 kcal/mol
+p-value: 0.000044
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768042833|ref|XR_951643.1||2627
+mfe: -25.7 kcal/mol
+p-value: 0.000044
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768042833|ref|XR_951643.1||2584
+mfe: -25.7 kcal/mol
+p-value: 0.000044
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768042833|ref|XR_951643.1||2673
+mfe: -25.7 kcal/mol
+p-value: 0.000044
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767998173|ref|XM_011525803.1||543
+mfe: -29.3 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：3
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|310124223|ref|XR_109781.1||91
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|338827684|ref|NM_001242837.1||4390
+mfe: -29.4 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：11
+miRNA与靶点的起始匹配位点：7
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|354721106|ref|NM_001252008.1||3179
+mfe: -26.7 kcal/mol
+p-value: 0.000019
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|209969831|ref|NM_001136194.1||6335
+mfe: -27.5 kcal/mol
+p-value: 0.000010
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|300863075|ref|NM_001193302.1||2301
+mfe: -27.2 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|302148469|ref|NM_001193552.1||384
+mfe: -30.7 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768052651|ref|XM_011548137.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767941160|ref|XR_926412.1||2795
+mfe: -29.8 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|300863071|ref|NM_001193300.1||2606
+mfe: -27.2 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|296080701|ref|NM_004134.6||1469
+mfe: -29.6 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|815930065|ref|NM_002223.3||8532
+mfe: -28.0 kcal/mol
+p-value: 0.000006
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：4
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767987882|ref|XM_011522759.1||5178
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768045056|ref|XM_011546736.1||4632
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767985698|ref|XM_011522180.1||107
+mfe: -28.8 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768053845|ref|XM_011548330.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|571026609|ref|NM_152598.3||2436
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|300863073|ref|NM_001193301.1||2531
+mfe: -27.2 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|571026625|ref|NM_001288780.1||2581
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768046162|ref|XM_011547097.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|540344581|ref|NM_001282440.1||1808
+mfe: -30.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|524588526|ref|NM_005266.6||2938
+mfe: -26.4 kcal/mol
+p-value: 0.000024
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|313851021|ref|NM_001118.4||2652
+mfe: -27.2 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|641386875|ref|NM_001293092.1||1897
+mfe: -30.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|578830488|ref|XM_005257095.2||2512
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|683524077|ref|NR_125920.1||109
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767993273|ref|XM_011524209.1||29
+mfe: -38.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767993827|ref|XR_934406.1||2512
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|354721108|ref|NM_001252010.1||3057
+mfe: -26.7 kcal/mol
+p-value: 0.000019
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768012308|ref|XM_011527552.1||146
+mfe: -30.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|313851017|ref|NM_001199635.1||2736
+mfe: -27.2 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|312176373|ref|NM_001145211.2||3148
+mfe: -26.1 kcal/mol
+p-value: 0.000031
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|307548895|ref|NR_036632.1||323
+mfe: -26.3 kcal/mol
+p-value: 0.000027
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|635372902|ref|NM_001292030.1||3990
+mfe: -26.4 kcal/mol
+p-value: 0.000024
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：6
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|194353965|ref|NM_001370.1||4121
+mfe: -28.4 kcal/mol
+p-value: 0.000004
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|571330815|ref|NR_110182.1||105
+mfe: -36.4 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|312176374|ref|NM_001145212.2||3021
+mfe: -26.1 kcal/mol
+p-value: 0.000031
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768048524|ref|XM_011547508.1||40
+mfe: -28.2 kcal/mol
+p-value: 0.000005
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767993820|ref|XM_005257097.3||2604
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|578830494|ref|XM_005257098.2||2509
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|300863070|ref|NM_022367.3||2615
+mfe: -27.2 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767993825|ref|XM_011524437.1||2487
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767993821|ref|XM_011524435.1||2509
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767986639|ref|XR_932620.1||999
+mfe: -27.1 kcal/mol
+p-value: 0.000013
+miRNA与靶点的匹配碱基数：12
+miRNA与靶点的起始匹配位点：5
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|345199281|ref|NM_005336.4||4357
+mfe: -31.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768045045|ref|XM_011546733.1||5178
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|42476110|ref|NM_007353.2||1948
+mfe: -30.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767987888|ref|XM_011522762.1||4632
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|312176372|ref|NM_007256.4||3453
+mfe: -26.1 kcal/mol
+p-value: 0.000031
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|767993828|ref|XM_005257106.3||2173
+mfe: -26.8 kcal/mol
+p-value: 0.000017
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768022619|ref|XR_937793.1||2307
+mfe: -36.4 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768022619|ref|XR_937793.1||1197
+mfe: -29.6 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768045052|ref|XM_011546734.1||5046
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768045041|ref|XM_011546732.1||5205
+mfe: -30.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768012304|ref|XM_011527550.1||834
+mfe: -30.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|553727227|ref|NM_002701.5||429
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768012303|ref|XM_005259443.2||709
+mfe: -30.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|578826816|ref|XM_006720469.1||669
+mfe: -29.0 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|768012306|ref|XM_011527551.1||150
+mfe: -30.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>1|miRNA : hsa-miR-7975
+
+target:	gi|390190219|ref|NR_051996.1||159
+mfe: -35.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767949005|ref|XM_011516677.1||1464
+mfe: -28.1 kcal/mol
+p-value: 0.000016
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|215272311|ref|NR_002826.2||779
+mfe: -25.8 kcal/mol
+p-value: 0.000103
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767999970|ref|XR_935523.1||965
+mfe: -27.9 kcal/mol
+p-value: 0.000019
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：3
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767949003|ref|XM_006716172.2||1479
+mfe: -28.1 kcal/mol
+p-value: 0.000016
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|312261187|ref|NR_037573.1||6103
+mfe: -29.0 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：2
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767914848|ref|XM_005264418.3||2988
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767949019|ref|XM_011516684.1||608
+mfe: -28.1 kcal/mol
+p-value: 0.000016
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|544583482|ref|NM_024085.4||3728
+mfe: -26.4 kcal/mol
+p-value: 0.000063
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|641738646|ref|NR_120552.1||924
+mfe: -27.4 kcal/mol
+p-value: 0.000028
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935620|ref|XM_011543278.1||920
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|262205356|ref|NR_029692.1||52
+mfe: -32.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：3
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|62865615|ref|NM_016283.4||282
+mfe: -26.4 kcal/mol
+p-value: 0.000063
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|557878645|ref|NM_024719.3||968
+mfe: -26.4 kcal/mol
+p-value: 0.000063
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767934478|ref|XM_011514062.1||635
+mfe: -25.9 kcal/mol
+p-value: 0.000095
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：3
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767891318|ref|XR_959766.1||855
+mfe: -28.8 kcal/mol
+p-value: 0.000009
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|170763485|ref|NM_018356.2||559
+mfe: -25.9 kcal/mol
+p-value: 0.000095
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：3
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|768037546|ref|XM_011530905.1||1785
+mfe: -29.2 kcal/mol
+p-value: 0.000007
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|309747090|ref|NM_001198541.1||870
+mfe: -26.5 kcal/mol
+p-value: 0.000058
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|317008626|ref|NM_001199743.1||6032
+mfe: -29.0 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：2
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|289191354|ref|NR_030741.1||50
+mfe: -32.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：3
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|219555681|ref|NM_133375.3||1904
+mfe: -33.3 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：21
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|148746217|ref|NM_016281.3||1381
+mfe: -27.3 kcal/mol
+p-value: 0.000031
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767914853|ref|XM_011532966.1||2988
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935608|ref|XM_011543273.1||934
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|566559951|ref|NM_001144923.2||549
+mfe: -27.4 kcal/mol
+p-value: 0.000028
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|642945661|ref|NR_120590.1||558
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935596|ref|XM_011543267.1||2804
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|86793035|ref|NM_000573.3||7910
+mfe: -32.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|363807221|ref|NM_001254943.1||3005
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|93102357|ref|NM_014430.2||1882
+mfe: -27.2 kcal/mol
+p-value: 0.000033
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|312261185|ref|NM_032486.3||6002
+mfe: -29.0 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：2
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|544583527|ref|NM_001077198.2||3780
+mfe: -26.4 kcal/mol
+p-value: 0.000063
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|94818890|ref|NM_001040458.1||1112
+mfe: -26.5 kcal/mol
+p-value: 0.000058
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935598|ref|XM_011543268.1||949
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|182509179|ref|NM_001123329.1||423
+mfe: -27.2 kcal/mol
+p-value: 0.000033
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767949013|ref|XM_011516681.1||1062
+mfe: -28.1 kcal/mol
+p-value: 0.000016
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|386781673|ref|NM_004982.3||1615
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：21
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767908440|ref|XM_011509205.1||9397
+mfe: -32.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767914857|ref|XM_011532968.1||2988
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|530392052|ref|XM_005252400.1||5447
+mfe: -33.2 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|380422392|ref|NM_030808.4||399
+mfe: -28.6 kcal/mol
+p-value: 0.000011
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|545479173|ref|NR_073415.2||2496
+mfe: -33.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|530367825|ref|XM_005264426.1||2988
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|211971063|ref|NR_024384.1||1117
+mfe: -32.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：3
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|62865611|ref|NM_001015891.1||519
+mfe: -26.4 kcal/mol
+p-value: 0.000063
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|566559940|ref|NM_024926.3||642
+mfe: -27.4 kcal/mol
+p-value: 0.000028
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|262205351|ref|NR_029691.1||52
+mfe: -32.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：3
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767949017|ref|XM_011516683.1||775
+mfe: -28.1 kcal/mol
+p-value: 0.000016
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|808390717|ref|NM_005246.3||1067
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|808392674|ref|NM_001308028.1||681
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|380422391|ref|NM_001025579.2||399
+mfe: -28.6 kcal/mol
+p-value: 0.000011
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767964814|ref|XR_946208.1||855
+mfe: -28.8 kcal/mol
+p-value: 0.000009
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767949007|ref|XM_011516678.1||1479
+mfe: -28.1 kcal/mol
+p-value: 0.000016
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|208022633|ref|NM_018084.4||3005
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935600|ref|XM_011543269.1||2658
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|94818900|ref|NM_016442.3||1112
+mfe: -26.5 kcal/mol
+p-value: 0.000058
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935602|ref|XM_011543270.1||811
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|11225606|ref|NM_017416.1||2839
+mfe: -29.2 kcal/mol
+p-value: 0.000007
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|86793108|ref|NM_000651.4||9260
+mfe: -32.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|338968850|ref|NM_201647.2||4918
+mfe: -26.6 kcal/mol
+p-value: 0.000054
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935612|ref|XR_948244.1||920
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|387157916|ref|NR_046639.1||1205
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935594|ref|XM_011543266.1||920
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767914851|ref|XM_011532965.1||2988
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|338968853|ref|NM_213622.2||5350
+mfe: -26.6 kcal/mol
+p-value: 0.000054
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|544583602|ref|NR_104255.1||3721
+mfe: -26.4 kcal/mol
+p-value: 0.000063
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935610|ref|XM_011543274.1||817
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767914855|ref|XM_011532967.1||2988
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|219521927|ref|NM_001143688.1||1985
+mfe: -33.3 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：21
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767949011|ref|XM_011516680.1||910
+mfe: -28.1 kcal/mol
+p-value: 0.000016
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767914849|ref|XM_011532964.1||1913
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|119395733|ref|NM_000059.3||4798
+mfe: -25.0 kcal/mol
+p-value: 0.000196
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|530367815|ref|XM_005264421.1||2988
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767881407|ref|XR_171373.2||2397
+mfe: -26.2 kcal/mol
+p-value: 0.000074
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|182509177|ref|NM_014950.2||423
+mfe: -27.2 kcal/mol
+p-value: 0.000033
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|397139020|ref|XR_158994.1||2397
+mfe: -26.2 kcal/mol
+p-value: 0.000074
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|566559800|ref|NM_001144920.2||642
+mfe: -27.4 kcal/mol
+p-value: 0.000028
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|208022631|ref|NM_001135597.1||3005
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|338968849|ref|NM_006463.4||5027
+mfe: -26.6 kcal/mol
+p-value: 0.000054
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|566559925|ref|NM_001287513.1||571
+mfe: -27.4 kcal/mol
+p-value: 0.000028
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767959839|ref|XM_005252401.3||5298
+mfe: -33.2 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：6
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|557878623|ref|NM_001286732.1||968
+mfe: -26.4 kcal/mol
+p-value: 0.000063
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|211971062|ref|NR_024383.1||915
+mfe: -32.1 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：3
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935606|ref|XM_011543272.1||920
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767908442|ref|XM_006711166.2||9131
+mfe: -32.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：20
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935619|ref|XR_948245.1||920
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935613|ref|XM_011543275.1||920
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767914859|ref|XM_011532969.1||2988
+mfe: -27.8 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|641738655|ref|NR_120551.1||213
+mfe: -27.4 kcal/mol
+p-value: 0.000028
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|767935604|ref|XM_011543271.1||920
+mfe: -28.9 kcal/mol
+p-value: 0.000008
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>2|miRNA : hsa-miR-9-5p
+
+target:	gi|578809934|ref|XM_006714479.1||441
+mfe: -25.9 kcal/mol
+p-value: 0.000095
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|384551682|ref|NM_001258218.1||409
+mfe: -26.0 kcal/mol
+p-value: 0.000133
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|119874214|ref|NM_181661.2||172
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|384551680|ref|NM_001258219.1||539
+mfe: -26.0 kcal/mol
+p-value: 0.000133
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767897277|ref|XR_917392.1||907
+mfe: -29.4 kcal/mol
+p-value: 0.000009
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|35493724|ref|NM_015243.2||172
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|578830033|ref|XM_005256797.2||967
+mfe: -26.0 kcal/mol
+p-value: 0.000133
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952565|ref|XM_006716511.2||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952557|ref|XM_011516859.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767910286|ref|XM_011509925.1||3426
+mfe: -31.0 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767942045|ref|XM_011535501.1||2545
+mfe: -26.1 kcal/mol
+p-value: 0.000123
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952566|ref|XM_011516863.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|209969822|ref|NM_145699.3||431
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|578828163|ref|XM_005255455.2||7823
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968229|ref|XM_011545050.1||5975
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|300869637|ref|NM_001193289.1||431
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968223|ref|XM_006718560.2||6314
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|815891214|ref|NM_001308259.1||3084
+mfe: -27.9 kcal/mol
+p-value: 0.000030
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|375298719|ref|NM_001256618.1||1356
+mfe: -30.3 kcal/mol
+p-value: 0.000004
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767955295|ref|XM_011518034.1||824
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767987417|ref|XM_011522568.1||7810
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952563|ref|XM_011516862.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768046436|ref|XM_011547040.1||735
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767987419|ref|XM_006720912.2||7586
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|375298716|ref|NM_001256617.1||1629
+mfe: -30.3 kcal/mol
+p-value: 0.000004
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|194733740|ref|NM_003382.4||3257
+mfe: -27.9 kcal/mol
+p-value: 0.000030
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952561|ref|XM_011516861.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|544583595|ref|NM_001282857.1||5952
+mfe: -25.2 kcal/mol
+p-value: 0.000251
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|381140058|ref|NM_001257273.1||1989
+mfe: -29.2 kcal/mol
+p-value: 0.000011
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|282165824|ref|NM_001170670.1||2348
+mfe: -27.8 kcal/mol
+p-value: 0.000032
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：7
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|315013574|ref|NR_037644.1||352
+mfe: -31.6 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767992823|ref|XR_934145.1||1338
+mfe: -32.3 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767942047|ref|XM_011535502.1||2312
+mfe: -26.1 kcal/mol
+p-value: 0.000123
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|371502105|ref|NM_001256134.1||612
+mfe: -28.3 kcal/mol
+p-value: 0.000022
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|751557661|ref|NR_130758.1||3591
+mfe: -27.9 kcal/mol
+p-value: 0.000030
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|384551684|ref|NM_001258220.1||145
+mfe: -26.0 kcal/mol
+p-value: 0.000133
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|375298718|ref|NM_006659.3||1545
+mfe: -30.3 kcal/mol
+p-value: 0.000004
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|815890902|ref|NM_014048.4||7689
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|548923958|ref|NR_104316.1||2227
+mfe: -28.4 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|375298721|ref|NR_046330.1||1929
+mfe: -30.3 kcal/mol
+p-value: 0.000004
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|578828166|ref|XM_006720913.1||7855
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767987414|ref|XM_006720908.2||8150
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768046444|ref|XM_011547044.1||477
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768046446|ref|XM_011547045.1||5102
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|530390159|ref|XM_005251587.1||1007
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|134254442|ref|NM_014801.3||2238
+mfe: -28.5 kcal/mol
+p-value: 0.000018
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968227|ref|XM_011545049.1||6194
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968224|ref|XM_005274012.2||6312
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968212|ref|XM_011545044.1||6431
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968233|ref|XR_949941.1||6405
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|663429547|ref|NM_001300737.1||2632
+mfe: -26.1 kcal/mol
+p-value: 0.000123
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|393715118|ref|NM_001270411.1||790
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767974354|ref|XM_011538388.1||152
+mfe: -31.2 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|304361768|ref|NM_005171.4||232
+mfe: -31.2 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|197245435|ref|NM_021033.6||1045
+mfe: -28.4 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968225|ref|XM_011545048.1||6206
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|548923695|ref|NM_001284425.1||2127
+mfe: -28.4 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|393715116|ref|NM_004900.4||865
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968220|ref|XM_011545047.1||6335
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952555|ref|XM_011516858.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|55749803|ref|NM_024896.2||1036
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|262206211|ref|NR_029608.1||60
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768031197|ref|XR_109732.4||3470
+mfe: -26.5 kcal/mol
+p-value: 0.000090
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968218|ref|XM_011545046.1||6113
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|371502107|ref|NM_003891.2||546
+mfe: -28.3 kcal/mol
+p-value: 0.000022
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|148536863|ref|NM_001098426.1||889
+mfe: -27.2 kcal/mol
+p-value: 0.000052
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768046440|ref|XM_011547042.1||2714
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767955293|ref|XR_428431.2||1007
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767991113|ref|XR_933665.1||907
+mfe: -29.4 kcal/mol
+p-value: 0.000009
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952570|ref|XM_011516865.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968215|ref|XM_011545045.1||6425
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768046438|ref|XM_011547041.1||2730
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767891053|ref|XR_959523.1||4464
+mfe: -28.5 kcal/mol
+p-value: 0.000018
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768046432|ref|XM_011547038.1||5102
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|384551661|ref|NR_047582.1||172
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|578828152|ref|XM_005255452.2||7993
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767964554|ref|XR_945969.1||4143
+mfe: -28.5 kcal/mol
+p-value: 0.000018
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|209969689|ref|NM_144591.3||352
+mfe: -31.6 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767942050|ref|XM_011535503.1||2585
+mfe: -26.1 kcal/mol
+p-value: 0.000123
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767958975|ref|XR_242624.2||1019
+mfe: -25.0 kcal/mol
+p-value: 0.000294
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|282165822|ref|NM_017953.3||2465
+mfe: -27.8 kcal/mol
+p-value: 0.000032
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：7
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|384551660|ref|NM_017890.4||172
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|578830034|ref|XM_005256798.2||636
+mfe: -26.0 kcal/mol
+p-value: 0.000133
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767964553|ref|XR_945968.1||4464
+mfe: -28.5 kcal/mol
+p-value: 0.000018
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|209969691|ref|NM_001136200.1||352
+mfe: -31.6 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|578831272|ref|XM_005257604.2||436
+mfe: -27.2 kcal/mol
+p-value: 0.000052
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767955297|ref|XR_929340.1||1007
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|751557613|ref|NM_001304522.1||3017
+mfe: -27.9 kcal/mol
+p-value: 0.000030
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|189083797|ref|NM_000260.3||6383
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767955292|ref|XR_929337.1||1007
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|393715107|ref|NM_001270406.1||377
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767964552|ref|XR_945967.1||4686
+mfe: -28.5 kcal/mol
+p-value: 0.000018
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767909234|ref|XM_011509521.1||888
+mfe: -28.2 kcal/mol
+p-value: 0.000023
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|544583594|ref|NM_019001.4||5988
+mfe: -25.2 kcal/mol
+p-value: 0.000251
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|189083801|ref|NM_001127180.1||6263
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968231|ref|XM_011545051.1||6431
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|663429585|ref|NM_153355.4||2367
+mfe: -26.1 kcal/mol
+p-value: 0.000123
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768046442|ref|XM_011547043.1||493
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|315360636|ref|NM_005076.3||3213
+mfe: -31.0 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767994531|ref|XM_011524714.1||384
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|215820654|ref|NM_020346.2||483
+mfe: -29.0 kcal/mol
+p-value: 0.000012
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|815890874|ref|NM_001308142.1||7838
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|663429561|ref|NM_001040214.2||2568
+mfe: -26.1 kcal/mol
+p-value: 0.000123
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|384551659|ref|NM_152564.4||172
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|384551679|ref|NM_024039.2||645
+mfe: -26.0 kcal/mol
+p-value: 0.000133
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|578828168|ref|XM_006720914.1||7843
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767955294|ref|XR_929338.1||1007
+mfe: -28.1 kcal/mol
+p-value: 0.000025
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767987420|ref|XM_011522569.1||7606
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968222|ref|XM_006718559.2||6317
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|663429518|ref|NM_001300738.1||2582
+mfe: -26.1 kcal/mol
+p-value: 0.000123
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767979311|ref|XM_011537525.1||845
+mfe: -28.3 kcal/mol
+p-value: 0.000022
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968238|ref|XM_006718561.2||6315
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|663429520|ref|NM_001300740.1||2206
+mfe: -26.1 kcal/mol
+p-value: 0.000123
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968214|ref|XR_949938.1||6431
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767891052|ref|XR_959522.1||4686
+mfe: -28.5 kcal/mol
+p-value: 0.000018
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：4
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767968217|ref|XM_006718558.2||6422
+mfe: -26.3 kcal/mol
+p-value: 0.000105
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767897651|ref|XR_917792.1||1338
+mfe: -32.3 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|548923747|ref|NM_001284426.1||1885
+mfe: -28.4 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952568|ref|XM_011516864.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|768046434|ref|XM_011547039.1||2972
+mfe: -26.6 kcal/mol
+p-value: 0.000083
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767987416|ref|XM_005255453.3||7988
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|548923902|ref|NM_015460.3||2264
+mfe: -28.4 kcal/mol
+p-value: 0.000020
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952572|ref|XM_011516866.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|115298681|ref|NM_015172.3||8047
+mfe: -31.2 kcal/mol
+p-value: 0.000002
+miRNA与靶点的匹配碱基数：18
+miRNA与靶点的起始匹配位点：3
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767987415|ref|XM_006720909.2||7981
+mfe: -32.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：19
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|384551677|ref|NM_001258217.1||803
+mfe: -26.0 kcal/mol
+p-value: 0.000133
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：6
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|126365744|ref|NM_001017424.2||219
+mfe: -28.2 kcal/mol
+p-value: 0.000023
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>3|miRNA : hsa-miR-10a-5p
+
+target:	gi|767952559|ref|XM_011516860.1||164
+mfe: -26.2 kcal/mol
+p-value: 0.000114
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：5
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767996001|ref|XM_011525285.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|148596993|ref|NM_006985.2||826
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767960394|ref|XM_011519611.1||1773
+mfe: -31.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767974946|ref|XM_011538604.1||465
+mfe: -30.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768022362|ref|XR_937708.1||3467
+mfe: -29.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：5
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988958|ref|XM_011546003.1||1747
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988149|ref|XM_011545684.1||1031
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767886718|ref|XR_252147.2||713
+mfe: -33.2 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768011066|ref|XM_011527309.1||2866
+mfe: -32.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767887065|ref|XR_955629.1||1104
+mfe: -33.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767987465|ref|XM_005255489.2||982
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896704|ref|XM_011508556.1||1049
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767987856|ref|XM_011522749.1||983
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937672|ref|XM_005268406.3||4685
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|40807476|ref|NM_030665.3||7314
+mfe: -34.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|472339063|ref|NM_001277323.1||826
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796422|ref|NM_001272111.1||299
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|311771656|ref|NM_001018039.1||1672
+mfe: -31.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|511773011|ref|NR_103556.1||945
+mfe: -30.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|735997408|ref|NM_002213.4||4097
+mfe: -32.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768045905|ref|XM_011546838.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896697|ref|XM_011508553.1||979
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|291575121|ref|NM_130464.2||1130
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767877769|ref|XR_958314.1||738
+mfe: -33.3 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767986832|ref|XM_011522341.1||1404
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767987439|ref|XM_005255484.2||982
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937681|ref|XM_006714776.2||4290
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|756140936|ref|NM_001304834.1||165
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796426|ref|NM_001272113.1||299
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896709|ref|XM_011508558.1||1057
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|388453006|ref|NM_153372.1||3
+mfe: -36.9 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|261244896|ref|NR_029379.1||423
+mfe: -30.4 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|542133079|ref|NM_001282507.1||883
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988147|ref|XM_011545683.1||1449
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767946140|ref|XR_926958.1||713
+mfe: -33.2 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767974944|ref|XM_011538603.1||509
+mfe: -30.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767894714|ref|XR_915336.1||2453
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767894714|ref|XR_915336.1||301
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767894714|ref|XR_915336.1||5013
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937683|ref|XM_011537618.1||5182
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|254939535|ref|NM_001033580.2||1234
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796418|ref|NM_001272109.1||223
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937669|ref|XM_005268404.3||4784
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767996007|ref|XM_011525288.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767960397|ref|XM_011519612.1||782
+mfe: -31.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988155|ref|XM_011545687.1||1241
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767996005|ref|XM_011525287.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767900650|ref|XR_920506.1||3467
+mfe: -29.2 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：5
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796464|ref|NR_073610.1||223
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988138|ref|XM_011522796.1||986
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768044877|ref|XM_006725190.2||979
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896701|ref|XM_011508555.1||904
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768047804|ref|XR_952313.1||713
+mfe: -33.2 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|168693629|ref|NM_005231.3||2489
+mfe: -29.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796420|ref|NM_001272110.1||341
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767886309|ref|XR_954976.1||85
+mfe: -30.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|301897821|ref|NR_036447.1||6019
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768044882|ref|XM_011546692.1||1404
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|756140846|ref|NM_001304836.1||165
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896699|ref|XM_011508554.1||1191
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|523567564|ref|NM_033100.3||2835
+mfe: -30.9 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|224548941|ref|NR_027153.1||955
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767946469|ref|XR_927238.1||1104
+mfe: -33.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767967583|ref|XM_006718447.2||2267
+mfe: -29.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937680|ref|XM_005268407.3||4540
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|39812473|ref|NM_003222.3||940
+mfe: -30.2 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：3
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988159|ref|XM_011545689.1||734
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|209529738|ref|NM_001135865.1||1333
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768011072|ref|XM_005259256.2||1891
+mfe: -32.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|578840415|ref|XM_006725351.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767996009|ref|XM_011525289.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|809281437|ref|NM_001308102.1||164
+mfe: -28.2 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：12
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|311771655|ref|NM_001029880.2||1774
+mfe: -31.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|284005041|ref|NM_025109.5||1234
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768045907|ref|XM_011546839.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|153791376|ref|NM_024310.4||1613
+mfe: -32.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768044834|ref|XM_006725185.2||1039
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767964233|ref|XM_011540339.1||2641
+mfe: -30.9 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|219521894|ref|NR_026554.1||321
+mfe: -30.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767990572|ref|XM_011523339.1||323
+mfe: -34.9 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937673|ref|XM_011537615.1||4583
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896758|ref|XR_916988.1||1834
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796414|ref|NM_001272107.1||341
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937679|ref|XM_006714775.2||4193
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|809281436|ref|NM_001010969.3||164
+mfe: -28.2 kcal/mol
+p-value: 0.000003
+miRNA与靶点的匹配碱基数：12
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767894713|ref|XR_915335.1||2946
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767894713|ref|XR_915335.1||5506
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767894713|ref|XR_915335.1||301
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768045140|ref|XM_011546744.1||1040
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796412|ref|NM_001272106.1||223
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988151|ref|XM_011545685.1||1498
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|95113653|ref|NR_003062.1||523
+mfe: -33.4 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796406|ref|NM_024897.3||341
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|756140874|ref|NM_001304835.1||165
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|507417934|ref|NM_015315.4||4394
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937675|ref|XM_011537616.1||4292
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767986828|ref|XM_011522339.1||910
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767907831|ref|XR_947608.1||738
+mfe: -33.3 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768043685|ref|XR_951706.1||713
+mfe: -33.2 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|578834885|ref|XM_006723378.1||1808
+mfe: -32.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937670|ref|XM_011537614.1||4706
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|756140772|ref|NM_001304838.1||165
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|387849240|ref|NM_001030288.2||3753
+mfe: -32.3 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896824|ref|XR_917011.1||3143
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|254939536|ref|NM_001163735.1||1234
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767974942|ref|XM_011538602.1||491
+mfe: -30.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796416|ref|NM_001272108.1||299
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796424|ref|NM_001272112.1||223
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|219521891|ref|NM_020898.2||424
+mfe: -30.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767946468|ref|XR_927237.1||1104
+mfe: -33.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767944275|ref|XR_942958.1||85
+mfe: -30.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767996003|ref|XM_011525286.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768045899|ref|XM_011546836.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896711|ref|XM_011508559.1||451
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767982161|ref|XR_943583.1||301
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767982161|ref|XR_943583.1||5012
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767982161|ref|XR_943583.1||2453
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768045909|ref|XM_011546840.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|472339067|ref|NM_001277324.1||826
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|530392361|ref|XM_005252551.1||1129
+mfe: -31.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|756140955|ref|NM_001304837.1||165
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767986835|ref|XM_011522342.1||910
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767987860|ref|XM_011522751.1||992
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768045902|ref|XM_011546837.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767986834|ref|XM_005255738.3||979
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|192447422|ref|NM_001128826.1||1239
+mfe: -30.2 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767987854|ref|XM_011522748.1||922
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767990571|ref|XM_005256158.3||1148
+mfe: -34.9 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|620597374|ref|NR_119376.1||3039
+mfe: -29.5 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768045911|ref|XM_011546841.1||645
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767987865|ref|XM_011522753.1||1000
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768044878|ref|XM_011546690.1||910
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767964229|ref|XM_011540337.1||3326
+mfe: -30.9 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|542133087|ref|NM_001282511.1||883
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988153|ref|XM_011545686.1||1362
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|296080743|ref|NM_138565.2||2378
+mfe: -29.9 kcal/mol
+p-value: 0.000001
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767982160|ref|XR_943582.1||301
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767982160|ref|XR_943582.1||5505
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767982160|ref|XR_943582.1||2946
+mfe: -33.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768044884|ref|XM_011546693.1||454
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|686661135|ref|NM_006664.3||158
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767987858|ref|XM_011522750.1||839
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767996011|ref|XM_011525290.1||690
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796409|ref|NM_198406.2||299
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937677|ref|XM_011537617.1||4211
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767986827|ref|XM_005255735.3||979
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767960396|ref|XM_006717490.2||1547
+mfe: -31.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：17
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767946470|ref|XR_927239.1||1104
+mfe: -33.7 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767937682|ref|XM_005268408.3||4277
+mfe: -31.1 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：16
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767988157|ref|XM_011545688.1||714
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767896749|ref|XM_011508561.1||1834
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|387849243|ref|NM_003123.4||3720
+mfe: -32.3 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767996013|ref|XM_011525291.1||645
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|472339069|ref|NM_001277325.1||883
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796410|ref|NM_001272105.1||413
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|767974940|ref|XM_011538601.1||358
+mfe: -30.8 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：14
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|299829221|ref|NR_033892.1||486
+mfe: -36.5 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：2
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|442796407|ref|NM_001272104.1||341
+mfe: -31.6 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：15
+miRNA与靶点的起始匹配位点：1
+
+
+>4|miRNA : hsa-miR-4451
+
+target:	gi|768044970|ref|XM_006725208.2||982
+mfe: -31.0 kcal/mol
+p-value: 0.000000
+miRNA与靶点的匹配碱基数：13
+miRNA与靶点的起始匹配位点：2
+
+

@@ -1,0 +1,5 @@
+all_count=6
+zero_count=2
+result_count=4
+up_count=2
+down_count=2

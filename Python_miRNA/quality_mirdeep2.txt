@@ -1,0 +1,173 @@
+>sal:
+Input: 15114675 reads.
+Output: 14283330 reads.
+discarded 258940 too-short reads.
+discarded 71714 adapter-only reads.
+discarded 500691 N reads.
+
+mapper:
+mapping reads to genome index
+# reads processed: 1853499
+# reads with at least one reported alignment: 215 (0.01%)
+# reads that failed to align: 1852317 (99.94%)
+# reads with alignments suppressed due to -m: 967 (0.05%)
+Reported 357 alignments to 1 output stream(s)
+
+#desc total mapped unmapped %mapped %unmapped
+total: 6287154 255 6286899 0.000 1.000
+seq: 6287154 255 6286899 0.000 1.000
+
+mirdeep2:
+Mapping mature,star and loop sequences against index
+# reads processed: 24
+# reads with at least one reported alignment: 3 (12.50%)
+# reads that failed to align: 21 (87.50%)
+Reported 17 alignments to 1 output stream(s)
+
+quantifier:
+mapping read sequences against index
+# reads processed: 1853499
+# reads with at least one reported alignment: 131 (0.01%)
+# reads that failed to align: 1853368 (99.99%)
+Reported 167 alignments to 1 output stream(s)
+
+
+
+>sal_ctl:
+Input: 1826068 reads.
+Output: 1642247 reads.
+discarded 22681 too-short reads.
+discarded 11847 adapter-only reads.
+discarded 149293 N reads.
+discarding short reads
+mapper:
+
+mapping reads to genome index
+# reads processed: 390102
+# reads with at least one reported alignment: 233 (0.06%)
+# reads that failed to align: 389022 (99.72%)
+# reads with alignments suppressed due to -m: 847 (0.22%)
+Reported 453 alignments to 1 output stream(s)
+
+#desc total mapped unmapped %mapped %unmapped
+total: 1570231 481 1569750 0.000 1.000
+seq: 1570231 481 1569750 0.000 1.000
+
+mirdeep2:
+Mapping mature,star and loop sequences against index
+# reads processed: 30
+# reads with at least one reported alignment: 8 (26.67%)
+# reads that failed to align: 22 (73.33%)
+Reported 50 alignments to 1 output stream(s)
+
+quantifier:
+mapping read sequences against index
+# reads processed: 390102
+# reads with at least one reported alignment: 531 (0.14%)
+# reads that failed to align: 389571 (99.86%)
+Reported 655 alignments to 1 output stream(s)
+
+--
+>ecoli_ctl:
+Input: 1826068 reads.
+Output: 1642247 reads.
+discarded 22681 too-short reads.
+discarded 11847 adapter-only reads.
+discarded 149293 N reads.
+discarding short reads
+mapper:
+
+mapping reads to genome index
+# reads processed: 390102
+# reads with at least one reported alignment: 254 (0.07%)
+# reads that failed to align: 388963 (99.71%)
+# reads with alignments suppressed due to -m: 885 (0.23%)
+Reported 527 alignments to 1 output stream(s)
+
+mirdeep2:
+Mapping mature,star and loop sequences against index
+# reads processed: 33
+# reads with at least one reported alignment: 1 (3.03%)
+# reads that failed to align: 32 (96.97%)
+Reported 2 alignments to 1 output stream(s)
+
+quantifier:
+mapping read sequences against index
+# reads processed: 390102
+# reads with at least one reported alignment: 531 (0.14%)
+# reads that failed to align: 389571 (99.86%)
+Reported 655 alignments to 1 output stream(s)
+
+---
+>strep_ctl:
+Input: 7267754 reads.
+Output: 6303904 reads.
+discarded 144577 too-short reads.
+discarded 39246 adapter-only reads.
+discarded 780027 N reads.
+discarding short reads
+
+mapper:
+mapping reads to genome index
+# reads processed: 682699
+# reads with at least one reported alignment: 1975 (0.29%)
+# reads that failed to align: 680724 (99.71%)
+# reads with alignments suppressed due to -m: n (n%)
+Reported 7243 alignments to 1 output stream(s)
+
+#desc total mapped unmapped %mapped %unmapped
+total: 5869576 25511 5844065 0.004 0.996
+seq: 5869576 25511 5844065 0.004 0.996
+
+mirdeep2:
+Mapping mature,star and loop sequences against index
+# reads processed: 52
+# reads with at least one reported alignment: 16 (30.77%)
+# reads that failed to align: 36 (69.23%)
+Reported 294 alignments to 1 output stream(s)
+
+quantifier:
+mapping read sequences against index
+# reads processed: 682699
+# reads with at least one reported alignment: 6651 (0.97%)
+# reads that failed to align: 676048 (99.03%)
+Reported 8002 alignments to 1 output stream(s)
+
+-------------
+>strep:
+discarding short reads
+Clipping Adapter: GTTCAGAGTTCTACAGTCCGACGATC
+Min. Length: 5
+Input: 8185519 reads.
+Output: 6485191 reads.
+discarded 170391 too-short reads.
+discarded 42466 adapter-only reads.
+discarded 1487471 N reads.
+discarding short reads
+mapper:
+mapping reads to genome index
+# reads processed: 680857
+# reads with at least one reported alignment: 2155 (0.32%)
+# reads that failed to align: 678701 (99.68%)
+# reads with alignments suppressed due to -m: 1 (0.00%)
+Reported 7933 alignments to 1 output stream(s)
+
+#desc total mapped unmapped %mapped %unmapped
+total: 6000559 18885 5981674 0.003 0.997
+seq: 6000559 18885 5981674 0.003 0.997
+
+mirdeep2:
+Mapping mature,star and loop sequences against index
+# reads processed: 25
+# reads with at least one reported alignment: 8 (32.00%)
+# reads that failed to align: 17 (68.00%)
+Reported 394 alignments to 1 output stream(s)
+
+quantifier:
+mapping read sequences against index
+# reads processed: 680857
+# reads with at least one reported alignment: 6352 (0.93%)
+# reads that failed to align: 674505 (99.07%)
+Reported 7811 alignments to 1 output stream(s)
+
+---

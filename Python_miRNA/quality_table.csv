@@ -1,0 +1,20 @@
+lable sal	sal_ctl	ecoli_ctl	strep_ctl	strep	
+fastx_input 15114675	1826068	1826068	7267754	8185519	
+fastx_output 14283330	1642247	1642247	6303904	6485191	
+mapper# reads processed 1853499	390102	390102	682699	680857	
+mapper# reads with at least one reported alignment215	233	254	1975	2155	
+mapper# reads with at least one reported alignment_%0.01%	0.06%	0.07%	0.29%	0.32%	
+mapper# reads that failed to align1852317	389022	388963	680724	678701	
+mapper# reads that failed to align_%99.94%	99.72%	99.71%	99.71%	99.68%	
+mapper# reads with alignments suppressed due to -m967	847	885	n	1	
+mapper# reads with alignments suppressed due to -m_%0.05%	0.22%	0.23%	n%	0.00%	
+mirdeep2# reads processed 24	30	33	52	25	
+mirdeep2# reads with at least one reported alignment3	8	1	16	8	
+mirdeep2# reads with at least one reported alignment_%12.50%	26.67%	3.03%	30.77%	32.00%	
+mirdeep2# reads that failed to align21	22	32	36	17	
+mirdeep2# reads that failed to align_%87.50%	73.33%	96.97%	69.23%	68.00%	
+quantifier# reads processed 1853499	390102	390102	682699	680857	
+quantifier# reads with at least one reported alignment131	531	531	6651	6352	
+quantifier# reads with at least one reported alignment_%0.01%	0.14%	0.14%	0.97%	0.93%	
+quantifier# reads that failed to align1853368	389571	389571	676048	674505	
+quantifier# reads that failed to align_%99.99%	99.86%	99.86%	99.03%	99.07%	
