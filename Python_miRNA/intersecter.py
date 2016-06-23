@@ -7,7 +7,7 @@ for two lists, print the intersection of them
 2015.05.28 by xnm
 '''
 
-mport sys
+import sys
 filename1 = sys.argv[1]
 filename2 = sys.argv[2]
 
@@ -22,7 +22,7 @@ count_insec = 0
 
 dataset2 = file_2.readlines()
 for line in file_1:
-	line = line.rstrip()
+#	line = line.rstrip() #16.5.22 have to comment this to get results.
 	count_1 += 1
 	for i in dataset2:
 		if line == i:

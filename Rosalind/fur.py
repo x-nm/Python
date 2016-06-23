@@ -4,3 +4,5 @@ l = list([1,0,1,0])
 print l
 print any(l)
 
+print l,
+print 'hellp'
