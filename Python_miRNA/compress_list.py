@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 
 '''
+16.09.09 
+added a version for compress a whole table
+* actually it's the same with compress a simple list
+---
 15.05.29 modified for tf_mir.csv:
 	TF TARET, WITH A HEAD LINE
 ---
@@ -23,16 +27,17 @@ file_in = open(filename,'r')
 file_out = open(filename[:-4]+'_compressed.txt', 'w')
 
 
-#FOR A LIST ONLY
-'''
+#FOR A LIST/a whole table
+
 in_list = file_in.readlines()
 out_list = list(set(in_list))
 
 for i in out_list:
 	file_out.write(i)
-'''
+
 
 #for tf_mir.csv:
+'''
 in_list_raw = file_in.readlines()
 in_list = []
 for i in in_list_raw:
@@ -44,7 +49,7 @@ out_list = list(set(in_list))
 
 for i in out_list:
 	file_out.write(i+'\n')
-
+'''
 
 file_in.close()
 file_out.close()
